@@ -432,7 +432,7 @@ const Contact = () => {
                     <div className="max-w-lg mx-auto bg-white p-8 lg:p-12 rounded-lg shadow-md">
                         <form onSubmit={handleSubmit}>
                             <div className="mb-6">
-                                <label htmlFor="name" className="block text-gray-700 font-medium mb-2">Name</label>
+                                <label htmlFor="name" className="block text-gray-700 font-medium mb-2">Name-</label>
                                 <input type="text" id="name" name="name" value={formData.name} onChange={handleChange} required className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:outline-none transition text-lg" />
                             </div>
                             <div className="mb-6">
