@@ -1,8 +1,8 @@
 import React, { useState, useEffect, useRef } from 'react';
-import profilePic from "./assets/profile.jpg";
+import profilePic from "./assets/profile.jpeg";
 // To use your photo, create an 'assets' folder in 'src', add 'profile.jpg', 
 // and uncomment the line below.
-// import profilePic from "./assets/profile.jpg";
+// import profilePic from "./assets/profile.jpeg";
 
 // --- SVG Icons as Components ---
 const GithubIcon = () => (
