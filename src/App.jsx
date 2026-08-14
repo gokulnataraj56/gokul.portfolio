@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import profilePic from "./assets/profile.jpeg";
+import profilePic from "./assets/profile.jpg";
 // To use your photo, create an 'assets' folder in 'src', add 'profile.jpg', 
 // and uncomment the line below.
 // import profilePic from "./assets/profile.jpeg";
