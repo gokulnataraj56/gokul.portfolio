@@ -5,5 +5,5 @@ import './index.css'
 import App from './App'
 import Counter from './hooks/usereduser'
 createRoot(document.getElementById('root')).render(
-    <app />
+    <App />
 )
